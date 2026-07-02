@@ -38,5 +38,5 @@ for file in "$DOWNLOADS"/*; do
     esac
 done
 
-echo "✅ Downloads organized successfully!"
+echo "Downloads organized successfully!"
 
